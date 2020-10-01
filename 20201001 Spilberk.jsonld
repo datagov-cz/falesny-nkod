@@ -1,0 +1,49 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "_:ds",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Hrad Špilberk"
+  },
+  "popis": {
+    "cs": "Hrad Špilberk jako turistický cíl."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "Turismus"
+    ],
+    "en": []
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/REGI"
+  ],
+  "koncept_euroVoc": [],
+  "specifikace": [
+    "https://ofn.gov.cz/turistick%C3%A9-c%C3%ADle/2020-07-01/"
+  ],
+  "kontaktní_bod": {},
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "soubor_ke_stažení": "https://gitlab.com/michalskop/ofnapp/-/raw/master/public/data/spilberk.json?inline=false",
+      "přístupové_url": "https://gitlab.com/michalskop/ofnapp/-/raw/master/public/data/spilberk.json?inline=false",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+      "schéma": "https://ofn.gov.cz/turistick%C3%A9-c%C3%ADle/2020-07-01/sch%C3%A9mata/turistick%C3%BD-c%C3%ADl.json",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ],
+  "poskytovatel": "https://data.gov.cz/zdroj/ovm/00007064"
+}
