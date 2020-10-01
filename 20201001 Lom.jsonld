@@ -31,6 +31,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
+      "iri": "https://oha03.mvcr.gov.cz/zdroj/datové-sady/20201001/lom/distribuce/1",
       "soubor_ke_stažení": "https://gitlab.com/michalskop/ofnapp/-/raw/master/public/data/lom.json?inline=false",
       "přístupové_url": "https://gitlab.com/michalskop/ofnapp/-/raw/master/public/data/lom.json?inline=false",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
