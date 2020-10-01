@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "_:ds",
+  "iri": "https://oha03.mvcr.gov.cz/zdroj/datové-sady/20201001/spilberk",
   "typ": "Datová sada",
   "název": {
     "cs": "Hrad Špilberk"
