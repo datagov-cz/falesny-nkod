@@ -1,12 +1,12 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://oha03.mvcr.gov.cz/zdroj/datové-sady/20201001/lom",
+  "iri": "https://oha03.mvcr.gov.cz/zdroj/datové-sady/20201120/více-cílů",
   "typ": "Datová sada",
   "název": {
-    "cs": "Kaolinový lom Kaznějov"
+    "cs": "Více turistických cílů"
   },
   "popis": {
-    "cs": "Kaolinový lom Kaznějov jako turistický cíl."
+    "cs": "Více turistických cílů - takto to odpovídá způsobu publikace u poskytovatelů."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -31,11 +31,11 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://oha03.mvcr.gov.cz/zdroj/datové-sady/20201001/lom/distribuce/1",
-      "soubor_ke_stažení": "https://gitlab.com/michalskop/ofnapp/-/raw/master/public/data/lom.json?inline=false",
-      "přístupové_url": "https://gitlab.com/michalskop/ofnapp/-/raw/master/public/data/lom.json?inline=false",
+      "iri": "https://oha03.mvcr.gov.cz/zdroj/datové-sady/20201001/spilberk/distribuce/1",
+      "soubor_ke_stažení": "https://oha03.mvcr.gov.cz/soubory/více-cílů.jsonld",
+      "přístupové_url": "https://oha03.mvcr.gov.cz/soubory/více-cílů.jsonld",
       "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD_LD",
       "schéma": "https://ofn.gov.cz/turistické-cíle/2020-07-01/schémata/turistický-cíl.json",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
@@ -46,5 +46,5 @@
       }
     }
   ],
-  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00257893"
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00007064"
 }

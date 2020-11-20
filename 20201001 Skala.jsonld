@@ -25,7 +25,7 @@
   ],
   "koncept_euroVoc": [],
   "specifikace": [
-    "https://ofn.gov.cz/turistick%C3%A9-c%C3%ADle/2020-07-01/"
+    "https://ofn.gov.cz/turistické-cíle/2020-07-01/"
   ],
   "kontaktní_bod": {},
   "distribuce": [
@@ -34,9 +34,9 @@
       "iri": "https://oha03.mvcr.gov.cz/zdroj/datové-sady/20201001/skala/distribuce/1",
       "soubor_ke_stažení": "https://gitlab.com/michalskop/ofnapp/-/raw/master/public/data/skala.json?inline=false",
       "přístupové_url": "https://gitlab.com/michalskop/ofnapp/-/raw/master/public/data/skala.json?inline=false",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
-      "schéma": "https://ofn.gov.cz/turistick%C3%A9-c%C3%ADle/2020-07-01/sch%C3%A9mata/turistick%C3%BD-c%C3%ADl.json",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+      "schéma": "https://ofn.gov.cz/turistické-cíle/2020-07-01/schémata/turistický-cíl.json",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
