@@ -31,11 +31,11 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://oha03.mvcr.gov.cz/zdroj/datové-sady/20201001/spilberk/distribuce/1",
+      "iri": "https://oha03.mvcr.gov.cz/zdroj/datové-sady/20201120/více-cílů/distribuce/1",
       "soubor_ke_stažení": "https://oha03.mvcr.gov.cz/soubory/více-cílů.jsonld",
       "přístupové_url": "https://oha03.mvcr.gov.cz/soubory/více-cílů.jsonld",
       "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD_LD",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
       "schéma": "https://ofn.gov.cz/turistické-cíle/2020-07-01/schémata/turistický-cíl.json",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
