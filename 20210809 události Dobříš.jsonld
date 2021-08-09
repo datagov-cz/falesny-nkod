@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "_:ds",
+  "iri": "https://oha03.mvcr.gov.cz/zdroj/datové-sady/20210809/matfyz-soc-události-dobříš",
   "typ": "Datová sada",
   "název": {
     "cs": "Události v Dobříši",
@@ -46,9 +46,11 @@
     "https://ofn.gov.cz/události/"
   ],
   "kontaktní_bod": {},
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00242098",
   "distribuce": [
     {
       "typ": "Distribuce",
+      "iri": "https://oha03.mvcr.gov.cz/zdroj/datové-sady/20210809/matfyz-soc-události-dobříš/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
